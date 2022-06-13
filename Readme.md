@@ -30,7 +30,7 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.1
+* V1
     * Initial Release
 
 ## License

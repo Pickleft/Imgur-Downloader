@@ -12,6 +12,7 @@ Automatically Searches & Downloads Pictures & Gifs & Videos From Imgur.
 ## Usage
 
 * Enter Keywords.
+* Downloads All Found Images & Gifs To A Folder With The Name Of Keywords Entered.
 
 ## Authors
 

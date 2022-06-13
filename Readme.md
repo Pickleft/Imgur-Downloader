@@ -1,7 +1,7 @@
 # Imgur Downloader
 
 Automatically Searches & Downloads Pictures & Gifs & Videos From Imgur.
-
+   * Support Me By A Star
 
 ## Getting Started
 

@@ -9,6 +9,10 @@ Automatically Searches & Downloads Pictures & Gifs & Videos From Imgur.
 
 * Check Releases
 
+## Preview
+
+![Preview](https://github.com/Pickleft/Imgur-Downloader/blob/master/preview.mp4?raw=true)
+
 ## Usage
 
 * Enter Keywords.

@@ -11,7 +11,7 @@ Automatically Searches & Downloads Pictures & Gifs & Videos From Imgur.
 
 ## Preview
 
-![Watch the video](https://github.com/Pickleft/Imgur-Downloader/blob/master/preview.mp4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Pickleft/Imgur-Downloader/blob/master/preview.mp4)
 
 ## Usage
 
